@@ -1,0 +1,1 @@
+export const MOVIE_SEARCH_LIST = "MOVIE_SEARCH_LIST";
