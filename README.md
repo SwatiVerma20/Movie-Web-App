@@ -63,5 +63,3 @@ Extra thoughts:
 
 Note:
 I have added the Api key in .env file, please let me know if API_Key is not working.
-
-### `npm start`
